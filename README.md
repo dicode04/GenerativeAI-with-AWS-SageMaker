@@ -1,6 +1,6 @@
 # Introducing-GenerativeAI-with-AWS
 
-## Capstone Project: Building a Medical Domain Expert Model with Meta lLaMA 2 on AWS SageMaker JumpStart
+## Capstone Project: Building a Medical Domain Expert Model with Meta LlaMA 2 on AWS SageMaker JumpStart
 
 The Meta Llama 2 7B foundation model was fine-tuned by utilizing Amazon Sagemaker and other AWS tools. This model has been trained for text-generation tasks. The goal is to adapt this model to my selected domain (medical), enhancing its ability to understand and generate domain-specific text and prompting to get the correct deployed result from the dataset.. 
 
